@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">合格戦略プランナー</string>
+    <string name="title_activity_main">合格戦略プランナー</string>
+    <string name="package_name">com.risuz.todaiplan</string>
+    <string name="custom_url_scheme">com.risuz.todaiplan</string>
+</resources>
