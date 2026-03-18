@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/todai-plan/sw.js', { scope: '/todai-plan/' })})}
